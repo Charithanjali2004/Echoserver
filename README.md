@@ -66,8 +66,12 @@ print(f"Received {data!r}")
 
 
 ## OUTPUT:
-![Screenshot (161)](https://github.com/user-attachments/assets/15af15b9-fdde-4536-9b28-d5af3b769f82)
-![Screenshot (160)](https://github.com/user-attachments/assets/52ec2963-52e1-43a0-af06-f426f0bdc42d)
+
+## Server Output
+![Server Output](ex01-server.png)
+
+## Client Output
+![Client Output](ex01-client.png)
 
 
 
